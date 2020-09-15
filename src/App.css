@@ -1,4 +1,27 @@
+/* 
+**** COLOUR SCHEME****
+
+Darker Yellow: #F8D247
+
+Lighter Yellow: #FBEA79
+
+Dark Red: #ff414e
+
+Gray: #343A40
+
+White: #ffffff 
+*/
+
 .App {
   text-align: center;
+  width:100%;
 }
 
+body {
+  background-color: #f8d247;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}

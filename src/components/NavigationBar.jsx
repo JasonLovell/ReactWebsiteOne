@@ -11,6 +11,7 @@ function NavigationBar() {
           <Nav className='mr-auto'>
             <Nav.Link href='./HomePage'>Home Page</Nav.Link>
             <Nav.Link href='./AboutPage'>About Page</Nav.Link>
+            <Nav.Link href='./GalleryPage'>Gallery Page</Nav.Link>
             <Nav.Link href='./ContactPage'>Contact Page</Nav.Link>
           </Nav>
         </Navbar.Collapse>
