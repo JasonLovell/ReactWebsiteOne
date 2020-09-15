@@ -1,11 +1,15 @@
 import React from 'react';
+import Marquee from '../components/keyframeMarquee';
 
 function HomePage() {
   return (
-    <div>
-      <h1>HomePage</h1>
-      <h4>Website Test 2020 in React</h4>
-    </div>
+    <React.Fragment>
+      <div>
+        <h1>HomePage</h1>
+        <h4>Website Test 2020 in React</h4>
+      </div>
+      <Marquee />
+    </React.Fragment>
   );
 }
 

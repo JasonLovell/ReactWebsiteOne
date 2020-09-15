@@ -14,7 +14,7 @@ White: #ffffff
 
 .App {
   text-align: center;
-  width:100%;
+  width: 100%;
 }
 
 body {
@@ -22,6 +22,6 @@ body {
 }
 
 .container {
-  width: 90%;
+  width: 100%;
   margin: auto;
 }
