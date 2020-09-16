@@ -1,0 +1,16 @@
+.titleBlock {
+  text-align: center;
+  color: #343a40;
+  background-color: #fff;
+  box-shadow: inset 2px 2px 7px #343a40;
+  height: 50px;
+}
+
+article {
+  text-align: center;
+  margin: 40px 10px 40px 0;
+}
+
+section {
+  height: 100%;
+}

@@ -1,3 +1,13 @@
+.socialBlock {
+  background-color: #343a40;
+  color: #ffffff;
+  margin: auto;
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  margin-top: 50px;
+}
+
 .wrapper {
   background-color: #ff414e;
   color: #ffffff;
@@ -5,5 +15,21 @@
   width: 100%;
   height: auto;
   padding: 10px;
-  bottom: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.socialIcons {
+  margin: 0 10px;
+}
+
+.zoom {
+  transition: transform 0.2s; /* Animation */
+  width: 20px;
+  margin: 0 20px;
+}
+
+.zoom:hover {
+  transform: scale(1.9);
+  color: #ff414e;
 }

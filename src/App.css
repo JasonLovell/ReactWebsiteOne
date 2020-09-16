@@ -12,16 +12,12 @@ Gray: #343A40
 White: #ffffff 
 */
 
-.App {
-  text-align: center;
-  width: 100%;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
   background-color: #f8d247;
-}
-
-.container {
-  width: 100%;
-  margin: auto;
 }
